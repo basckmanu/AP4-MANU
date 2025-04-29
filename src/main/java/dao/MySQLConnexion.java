@@ -15,9 +15,9 @@ import java.util.logging.Logger;
  */
 public class MySQLConnexion {
 
-    private static String url = "jdbc:mysql://localhost:3306/ap4";
-    private static String user = "root";
-    private static String pass = "";
+        private static String url = "jdbc:mysql://172.28.37.2:3306/ap4";
+    private static String user = "e_basck";
+    private static String pass = "Btssio82300";
 
     private static Connection con = null;
 
